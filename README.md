@@ -76,7 +76,7 @@ See Detail [CoolSMS SDK Example](https://www.coolsms.co.kr/PHP_SDK_Example)
 CoolSMS::message() // return \Nurigo\Api\Message
 CoolSMS::groupMessage() // return \Nurigo\Api\GroupMessage
 CoolSMS::image() // \Nurigo\Api\Image
-CoolSMS::senderID // \Nurigo\Api\SenderID
+CoolSMS::senderID() // \Nurigo\Api\SenderID
 ```
 
 Requirements
